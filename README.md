@@ -21,7 +21,7 @@ Users can mark movies as favorites, view all seen movies, and interact dynamical
 ## Technologies Used
 
 - React  
-- JavaScript (ES6+)  
+- JavaScript (ES6)  
 - CSS (basic styling)  
 - HTML  
 
